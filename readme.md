@@ -12,7 +12,8 @@
 ## 📸 Project Output
 Here’s a sample run of the project with generated charts and AI prediction:
 
-![AI Finance Results](assets/AI_Finance_Results.png)
+![AI Finance Tracker Results](assets/AI_Finance_Results.png)
+
 
 ---
 
